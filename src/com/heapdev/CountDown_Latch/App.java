@@ -6,7 +6,7 @@ import java.util.concurrent.Executors;
 
 /**
  * {@link java.util.concurrent.CountDownLatch} Java class to synchronize your
- * threadsâ€™ activities. <br>
+ * threads’ activities. <br>
  * <br>
  * Source:
  * <em>http://stackoverflow.com/questions/17827022/what-is-countdown-latch-in-java-multithreading</em><br>
@@ -37,7 +37,12 @@ import java.util.concurrent.Executors;
  * application can not start processing until all services have started
  * successfully. <br>
  * <br>
- *  *
+ * 
+ * Codes with minor comments are from
+ * <em>http://www.caveofprogramming.com/youtube/</em><br>
+ * also freely available at
+ * <em>https://www.udemy.com/java-multithreading/?couponCode=FREE</em>
+ *
  * 
  */
 
